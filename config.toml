@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "https://distracted-bohr-e47780.netlify.com/"
 title = "VINH LUONG"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
