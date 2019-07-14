@@ -42,9 +42,14 @@ googleAnalytics = ""
 
   # Nav links in the side bar
   [[params.navlinks]]
-  name = "Home"
+  name = "Portfolio 1"
   url = "portfolio/"
   home = true
+  
+  # This adds a second portfolio
+  [[params.navlinks]]
+  name = "Portfolio 2"
+  url = "another-portfolio/"
 
   [[params.navlinks]]
   name = "About"
